@@ -1,0 +1,20 @@
+{
+  "name": "curso-react-desde-youtube",
+  "version": "1.0.0",
+  "description": "Aprendiendo React con el empaquetador VITE con videos de react desde Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrmazaAlvarez/Curso-React-desde-Youtube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrmazaAlvarez/Curso-React-desde-Youtube/issues"
+  },
+  "homepage": "https://github.com/OrmazaAlvarez/Curso-React-desde-Youtube#readme"
+}
